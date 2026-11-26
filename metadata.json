@@ -1,0 +1,6 @@
+{
+  "name": "Clearlist",
+  "description": "Personal task workspace with Google Sign-In, strict owner isolation, and real-time Firestore synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
